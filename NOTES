@@ -1,0 +1,75 @@
+== version 0.2-5 ==
+
+[] create characters and a basic storyline, giving the player context as he or she progresses
+[] only allow finished stages to be selected from stage select
+[] allow player to save progress and continue where he or she left off
+[] cutscenes which explain the story progression before each stage, skip after having completed
+
+== version 0.2-4 ==
+
+[] use custom graphics for paddle, ball, and bricks
+[] add short intro music for title splash
+[] add sound effects for menu/stage selection movement and selection
+[] add background music that loops for infinity until player `dies` - then return to title splash
+
+
+== version 0.2-3 ==
+
+[] add sound effects for ball traveling, wind effect, etc
+[] add sound effects for bricks getting hit
+[] add sound effects for wall getting hit
+[] add sound effects for paddle hitting edge
+[] add sound effects for paddle hitting ball
+
+[] add a splash screen with title of game and when press spacebar, allow stage selection
+
+== version 0.2-2 ==
+
+[] add `difficulty` options, which change speed of ball, paddle, and brick `health`
+[] add a scoring system, and when player `dies` allow a hi-score to be saved with player's name
+[] add hi-score screen option to main menu
+
+== version 0.2-1 ==
+
+[] add bricks that take multiple hits to destroy. changing color as they become `weaker`
+[] add different brick formations as `stages`
+[] add a menu to select a stage, as well as pause the game
+[] allow player to `die` when ball hits the bottom 3 times, returning to title splash
+
+== FUTURE VERSIONS ==
+
+
+
+== version 0.1-8 ==
+
+add collision for the bricks
+
+== version 0.1-7 ==
+
+add the bricks at top of screen
+
+== version 0.1-6 == 
+
+add collision for paddle
+
+== version 0.1-5 ==
+
+added a paddle
+[] no collision
+
+
+== version 0.1-4 ==
+
+added a boundary so the ball "bounces" off of the sides
+
+== version 0.1-3 ==
+ made the ball move 
+ [] it leaves the screen in the top left
+
+== version 0.1-2 ==
+
+added a ball in the center
+
+== version 0.1-1 ==
+
+Created a window with a background color
